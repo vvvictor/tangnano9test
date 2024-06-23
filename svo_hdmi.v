@@ -18,7 +18,7 @@
  */
 
 `timescale 1ns / 1ps
-`include "hdmi/svo_defines.vh"
+`include "svo_defines.vh"
 
 module svo_hdmi(
 	input clk,
